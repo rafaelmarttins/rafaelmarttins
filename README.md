@@ -1,10 +1,12 @@
 ## Olá sou o Rafael Martins 👱🏼‍♂️ 
 #### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C# e Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
 
+##
 
 <div align="center">
   <a href="https://github.com/rafaelmarttins">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelmarttins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmarttins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarttins&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
