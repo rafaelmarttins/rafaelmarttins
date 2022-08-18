@@ -1,5 +1,5 @@
 ## Olá sou o Rafael Martins 👱🏼‍♂️ 
-##### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C# e Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
+#### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C# e Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
 
 
 <div align="center">
