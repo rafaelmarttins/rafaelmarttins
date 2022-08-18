@@ -20,6 +20,7 @@
 
 <a href="https://www.instagram.com/rafaadev/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_white"></a>
 <a href="https://www.linkedin.com/in/rafael-martins-393897219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:rafaelgemelli1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![snake gif](https://github.com/rafaelmarttins/rafaelmarttins/blob/output/github-contribution-grid-snake.svg)
 
