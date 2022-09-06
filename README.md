@@ -1,5 +1,5 @@
 ## Olá sou o Rafael Martins 👱🏼‍♂️ 
-#### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C# e Java. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
+#### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C#. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
 
 ##
 
@@ -17,7 +17,7 @@
 
 ##
 
-💌 Quer falar comigo? Entre em contato por algum dos meios abaixo: ⤵️
+Quer falar comigo? Entre em contato por algum dos meios abaixo: ⤵️
 <div> 
 <a href="https://www.instagram.com/rafaadev/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_white"></a>
 <a href="https://www.linkedin.com/in/rafael-martins-393897219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
