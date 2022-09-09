@@ -1,5 +1,5 @@
 ## Olá sou o Rafael Martins 👱🏼‍♂️ 
-
+#### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C#. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
 
 ##
 
@@ -15,7 +15,7 @@
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+##
 ##
 
 Quer falar comigo? Entre em contato por algum dos meios abaixo: ⤵️
