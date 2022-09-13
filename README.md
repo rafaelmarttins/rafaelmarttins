@@ -29,7 +29,7 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
  ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
- ![Dotnet] src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+ ![Dotnet] (src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg")
  
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
 
