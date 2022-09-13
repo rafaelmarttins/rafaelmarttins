@@ -7,10 +7,10 @@
 <div style="display: inline_block"><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelmarttins&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarttins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MayconCoutinho&background=0d1117&stroke=00bfbf&ring=FF6347&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&currStreakLabel=00bfbf&hide_border=true">
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmarttins&background=0d1117&stroke=00bfbf&ring=FF6347&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&currStreakLabel=00bfbf&hide_border=true">
 </div>
 
 
@@ -29,8 +29,6 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
  ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
- ![Dotnet](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg)&ensp;
- 
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
 
  
