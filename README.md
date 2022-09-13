@@ -1,31 +1,41 @@
-## Olá sou o Rafael Martins 👱🏼‍♂️ 
-#### Graduado em Análise e Desenvolvimento de Sistemas 💻 , atualmente cursando Ciência da Computação e focado nos estudos de desenvolvimento Back End com C#. Busco sempre expandir meus conhecimentos, habilidades técnicas e me desenvolver como pessoa. Adoro jogar jogos fps online com os amigos 🎮. 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Maycon+Coutinho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-##
+<div style="display: inline_block"><br>
 
-<div align="left">
-  <a href="https://github.com/rafaelmarttins">
-  <img  src="https://github-readme-stats.vercel.app/api?username=rafaelmarttins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarttins&layout=compact&langs_count=7&theme=dark"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Rafael+Martins;Tenho+21+anos;Eu+Sou+de+Campo+Grande,+MS;Sou+Desenvolvedor+Back-end;Aqui,+Posto+Meus+Projetos+e+trabalhos;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+
+<div style="display: inline_block"><br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MayconCoutinho&background=0d1117&stroke=00bfbf&ring=FF6347&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&currStreakLabel=00bfbf&hide_border=true">
 </div>
 
-##
+
+<div style="display: inline_block"><br>
+
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=rafaelmarttins&theme=gotham&hide_border=true&area=true)
   
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<div style="display: inline_block"><br>
 
-##
+&nbsp;
 
-Quer falar comigo? Entre em contato por algum dos meios abaixo: ⤵️
-<div> 
-<a href="https://www.instagram.com/rafaadev/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_white"></a>
-<a href="https://www.linkedin.com/in/rafael-martins-393897219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:rafaelgemelli1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div align="center">
+ 
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
+ ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
+ ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
+ ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
+ 
+ ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
 
-![snake gif](https://github.com/rafaelmarttins/rafaelmarttins/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
+ 
+<div style="display: inline_block"><br>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c9c9&height=120&section=footer"/>
 
-</div>    
