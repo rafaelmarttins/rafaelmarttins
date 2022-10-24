@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: C#, SQL SERVER </strong>
+  💼 Ferramentas: Visual Studio Code, Visual Studio </strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Contato: ⤵️
 </p>
 
 <p align="left">
