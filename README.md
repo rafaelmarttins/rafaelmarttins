@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, JAVA SCRIPT, C# </strong>
+  🦄 Linguagens: HTML, CSS, JAVA SCRIPT, C#, SQL SERVER </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code, Visual Studio </strong>
+  💼 Ferramentas: Visual Studio Code, Visual Studio, Trello </strong>
 </p>
 
 <p align="left">
