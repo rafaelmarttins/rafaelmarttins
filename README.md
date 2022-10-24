@@ -1,45 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rafael+Martins&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div style="display: inline_block"><br>
+<p align="left">
+  Olá meu nome é Rafael, sou formado em Análise de Desenvolvimento de Sistema. Atualmente estou cursando 
+  Ciências de Computação e estágiando na área de Desenvolvimento de Software Back-end na linguagem CSharp.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Rafael+Martins;Tenho+21+anos;Eu+Sou+de+Campo+Grande,+MS;Sou+Desenvolvedor+Back-end;Aqui,+Posto+Meus+Projetos+e+trabalhos;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+<p align="left">
+  🦄 Linguagens: HTML, CSS, JAVA SCRIPT, C# </strong>
+</p>
 
-<div style="display: inline_block"><br>
+<p align="left">
+  💼 Ferramentas: C#, SQL SERVER </strong>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelmarttins&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarttins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmarttins&background=0d1117&stroke=00bfbf&ring=FF6347&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&currStreakLabel=00bfbf&hide_border=true">
-</div>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelgemelli1@gmail.com" /></a>
 
-<div style="display: inline_block"><br>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaamartins/" /></a>
 
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=rafaelmarttins&theme=gotham&hide_border=true&area=true)
-  
-<div style="display: inline_block"><br>
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-&nbsp;
-
- <div align="center">
- 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
- ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&ensp;
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&ensp;
- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
- ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
- 
-
- 
-
- 
- </div>
- 
-<div style="display: inline_block"><br>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c9c9&height=120&section=footer"/>
-
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaadev/?hl=pt-br"/></a>
+</p>  
