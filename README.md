@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, JAVA SCRIPT, C#, SQL SERVER </strong>
+  🦄 Linguagens: HTML, CSS, JAVA SCRIPT, JQUERY, BOOTSTRAP, C#, SQL SERVER </strong>
 </p>
 
 <p align="left">
