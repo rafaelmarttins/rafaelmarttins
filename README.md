@@ -22,6 +22,8 @@
   ![jQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
   ![Vue.js](https://img.shields.io/badge/vuejs-333333?style=flat&logo=vuedotjs)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=FF0000)
+  ![Sqlite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=blue)
+  
 
 **Utilidades**
 
@@ -33,13 +35,16 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=Jira&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=8A2BE2)
   ![Notion](https://img.shields.io/badge/Notion-333333?style=flat&logo=notion&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=red)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=blue)
 
 <br/>
 
