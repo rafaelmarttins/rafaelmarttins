@@ -5,8 +5,8 @@
 
 - :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistema.
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uniderp.com.br">Uniderp</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Back-end** na <a href="http://www.psgtecnologia.com.br">PSG Tecnologia</a>
-- 🌱 &nbsp; Aprendendo mais sobre **React, Figma**.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Back-end**
+- 🌱 &nbsp; Aprendendo mais sobre **React, NextJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
