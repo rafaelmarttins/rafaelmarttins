@@ -20,7 +20,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
   ![jQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
-  ![Vue.js](https://img.shields.io/badge/vuejs-333333?style=flat&logo=vuedotjs)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=FF0000)
   ![Sqlite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=blue)
   
