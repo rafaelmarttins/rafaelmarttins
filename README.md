@@ -3,7 +3,7 @@
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
-- :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistema.
+- :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas.
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uniderp.com.br">Uniderp</a>.
 - 💼 &nbsp; Há procura de um trabalho/estágio como **Desenvolvedor**
 - 🌱 &nbsp; Aprendendo mais sobre **React, NextJS**.
