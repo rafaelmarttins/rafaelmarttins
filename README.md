@@ -5,7 +5,7 @@
 
 - :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas.
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uniderp.com.br">Uniderp</a>.
-- 💼 &nbsp; Há procura de um trabalho/estágio como **Desenvolvedor**
+- 💼 &nbsp; **Desenvolvedor Jr** na empresa TrackLand 
 - 🌱 &nbsp; Aprendendo mais sobre **React, NextJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
