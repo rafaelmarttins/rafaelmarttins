@@ -5,7 +5,7 @@
 
 - :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas e Ciências da Computação.
 - 🎓 &nbsp; Estou fazendo Pós-graduação em **Business Intelligence**.
-- 💼 &nbsp; **Desenvolvedor Jr** na empresa TrackLand 
+- 💼 &nbsp; Trabalho como **Desenvolvedor Jr** na empresa TrackLand 
 - 🌱 &nbsp; Aprendendo mais sobre **Typescript, NextJS, GraphQL, Analise de Dados**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
