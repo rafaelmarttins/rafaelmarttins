@@ -5,7 +5,7 @@
 
 - :computer: &nbsp; Olá meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas e Ciências da Computação.
 - 🎓 &nbsp; Pós-graduação em **Business Intelligence**.
-- 💼 &nbsp; Trabalho como **Analista de Sistemas** na empresa TrackLand 
+- 💼 &nbsp; Trabalho no **CEGIT** na Prefeitura Municipal. 
 - 🌱 &nbsp; Aprendendo mais sobre **Power BI, Qlik Sense, Análise de dados**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
